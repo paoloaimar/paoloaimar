@@ -1,6 +1,6 @@
 👋 Hi, I’m @paoloaimar
-- :briefcase: I'm a developer of desktop applications, based on .NET Core and .NET Framework
-- :office: I currently work in the logistics sector
+- :briefcase: I'm a developer of industrial applications, develop with different technologies. In particular i use .NET Core and NodeJS as back-end framework, Javascript/HTML or React as front-end. 
+- :office: I currently work in manufacturing sector, developing app based on the SAPUI5 framework.
 - :email: You can find me at aimarpaolo95@gmail.com
 
 <!---
